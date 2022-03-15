@@ -1,8 +1,8 @@
 # MP-model
-MP model for detection of fetal aneuploidies
+
 # Application of machine learning with RF-RFE in clinical trials for noninvasive prenatal testing of fetal trisomy 13, trisomy 18 and trisomy 21
 
-This programs run on Linux system
+This programs run on Linux system.
 
 1.Dependencies
 
