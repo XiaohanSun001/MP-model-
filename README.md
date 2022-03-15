@@ -14,7 +14,7 @@ This programs run on Linux system.
   mlxtend==0.19.0
   xgboost==1.4.2
 
-2. Examples
+2.Examples
 
 There are two sample datasets. File_name is test30.csv or test412.csv. This paper includes five models for detecting fetal aneuploid.
 
